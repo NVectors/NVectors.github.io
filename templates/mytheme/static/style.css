@@ -1,0 +1,8 @@
+html, body {
+  margin: 10;
+  border: 20;
+  font-size: 100%;
+  font-weight: bolder;
+  background-color: #87CEEB;
+  color: #FFD700;
+}
